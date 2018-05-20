@@ -3,7 +3,9 @@ package com.example.controller;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
+/*
+ * Account Rest controller with end points to link accounts
+ */
 @RestController
 public class AccountController {
 
